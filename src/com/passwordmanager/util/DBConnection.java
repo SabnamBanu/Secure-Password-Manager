@@ -8,7 +8,7 @@ public class DBConnection {
             return DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/password_manager",
                     "root",
-                    "YOUR_PASSWORD"
+                    "Your_Password"
             );
         } catch (Exception e) {
             e.printStackTrace();
