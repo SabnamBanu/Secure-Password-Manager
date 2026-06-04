@@ -28,3 +28,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/
+*.iml
+src/self_practice/
+src/Main.java
+src/ThisUsingMethods.java
